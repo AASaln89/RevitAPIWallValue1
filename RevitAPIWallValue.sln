@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPIWallVolume", "RevitAPIWallValue\RevitAPIWallVolume.csproj", "{DFDA3A20-41F1-4CA0-A6B6-B59E71EDAF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDA3A20-41F1-4CA0-A6B6-B59E71EDAF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDA3A20-41F1-4CA0-A6B6-B59E71EDAF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDA3A20-41F1-4CA0-A6B6-B59E71EDAF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDA3A20-41F1-4CA0-A6B6-B59E71EDAF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14142D4A-A0BA-49C1-B904-B506054C8F82}
+	EndGlobalSection
+EndGlobal
